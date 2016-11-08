@@ -1,0 +1,17 @@
+.pasto{
+    background: #8cb27c;
+    width: 1000px;
+    height: 500px;
+    position: static;
+    margin: 120px;
+ }
+ 
+ .marcas pasto{
+      width: 950px;
+      height: 450px;
+      border:1px solid #ffffff;
+      position: relative;
+      top: 20px;
+ }
+ 
+ 
