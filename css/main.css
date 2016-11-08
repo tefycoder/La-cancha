@@ -3,15 +3,64 @@
     width: 1000px;
     height: 500px;
     position: static;
-    margin: 120px;
+    margin-left: 150px;
+    margin-top: 50px;
  }
  
- .marcas pasto{
+ .marcas-pasto{
       width: 950px;
       height: 450px;
-      border:1px solid #ffffff;
+      border:2px solid #fff;
+      position: absolute;
+      margin: 25px;
+     
+      }
+ 
+.arco1{
+      border: 1px solid #fff;
+      width: 120px;
+      height:200px ;
       position: relative;
-      top: 20px;
- }
- 
- 
+      float:left;
+      top: 120px;
+      
+}
+.arco2{
+      border: 1px solid #fff;
+      width: 120px;
+      height:200px ;
+      position: relative;
+      float:  right;
+      top: 120px;
+        
+    }
+
+.circulo{
+    border:1px solid #fff;
+    width:200px ;
+    height:200px ;
+    position:absolute;
+    left:350px ;
+    top:120px;
+    border-radius:200px;
+    
+    
+}
+.pelota1{ 
+    position: absolute;
+    left: 100px;
+    top:125px;
+    
+}
+.pelota2{
+    position: absolute;
+    right:400px ;
+    top: 50px;
+    
+}
+
+.pelota3{
+    position: absolute;
+    right: 125px;
+    top:300px;
+}
